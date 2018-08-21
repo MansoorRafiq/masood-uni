@@ -1,0 +1,67 @@
+A51 MACRO ASSEMBLER  120                                                                  06/29/2015 19:15:45 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02
+OBJECT MODULE PLACED IN 120.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE 120.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1                                                                                              
+                       2     
+                       3     ; Please insert your code here.
+0000                   4     org 0000h
+0000 74FF              5     mov a,#0ffh
+                       6     
+0002 E4                7     clr a
+                       8     
+0003                   9     here1:
+0003 D290             10     setb p1.0
+0005 D295             11     setb p1.5
+0007 112B             12     acall delay
+0009 C295             13     clr p1.5
+000B D291             14     setb p1.1
+000D 112B             15     acall delay
+000F C290             16     clr p1.0
+0011 D292             17     setb p1.2
+0013 112B             18     acall delay
+0015 C291             19     clr p1.1
+0017 D293             20     setb p1.3
+0019 112B             21     acall delay
+001B C292             22     clr p1.2
+001D D294             23     setb p1.4
+001F 112B             24     acall delay
+0021 C293             25     clr p1.3
+0023 D295             26     setb p1.5
+0025 112B             27     acall delay
+0027 C294             28     clr p1.4
+                      29     
+0029 80D8             30     sjmp here1
+                      31     
+                      32     
+002B                  33     delay:
+002B 7A50             34     mov r2,#50h
+                      35     
+002D DAFE             36     again:djnz r2,again
+002F 22               37     ret
+                      38     
+                      39     
+                      40     END
+A51 MACRO ASSEMBLER  120                                                                  06/29/2015 19:15:45 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+AGAIN. . . . . . .  C ADDR   002DH   A   
+DELAY. . . . . . .  C ADDR   002BH   A   
+HERE1. . . . . . .  C ADDR   0003H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

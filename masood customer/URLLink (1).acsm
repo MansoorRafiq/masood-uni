@@ -1,0 +1,29 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:d65921d6-a3eb-40ae-8bd5-1ca62703ca4c</distributor>
+  <operatorURL>http://drm.myebooks.gr/fulfillment</operatorURL>
+  <transaction>ACS-INAP-1867212427</transaction>
+  <expiration>2015-04-25T04:36:58-04:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:77f412eb-5b5c-4c1a-9378-b2c1c6e2ece9</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Data Management using SQL Server_INTL</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aptech</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">20140922-aptech Aptech Ltd</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">urn:isbn:DMSQLSINTL101</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">English</dc:language>
+      <thumbnailURL>http://109.74.200.140/media/77f412eb-5b5c-4c1a-9378-b2c1c6e2ece9.jpg</thumbnailURL>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:77f412eb-5b5c-4c1a-9378-b2c1c6e2ece9</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>JRawserF1UIa5sDQzNOlSauBOTI=</hmac>
+</fulfillmentToken>

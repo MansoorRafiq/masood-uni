@@ -1,0 +1,66 @@
+A51 MACRO ASSEMBLER  1111                                                                 06/29/2015 17:01:49 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02
+OBJECT MODULE PLACED IN 1111.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE 1111.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1                                                             
+                       2     ; Please insert your code here.
+0000                   3     org 0000h
+0000 74FF              4     mov a,#0ffh
+0002 F590              5     mov p1,a
+0004 E4                6     clr a
+                       7     
+0005                   8     here1:
+0005 D290              9     setb p1.0
+0007 D294             10     setb p1.4
+0009 D295             11     setb p1.5
+000B 112F             12     acall delay
+000D C294             13     clr p1.4
+000F D291             14     setb p1.1
+0011 112F             15     acall delay
+0013 C295             16     clr p1.5
+0015 D292             17     setb p1.2
+0017 112F             18     acall delay
+0019 C290             19     clr p1.0
+001B D293             20     setb p1.3
+001D 112F             21     acall delay
+001F C291             22     clr p1.1
+0021 D294             23     setb p1.4
+0023 112F             24     acall delay
+0025 C292             25     clr p1.2
+0027 D296             26     setb p1.6
+0029 112F             27     acall delay
+002B C293             28     clr p1.3
+                      29     
+002D 80D6             30     sjmp here1
+                      31     
+                      32     
+002F                  33     delay:
+002F 7A50             34     mov r2,#50h
+                      35     
+0031 DAFE             36     again:djnz r2,again
+0033 22               37     ret
+                      38     
+                      39     END
+A51 MACRO ASSEMBLER  1111                                                                 06/29/2015 17:01:49 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+AGAIN. . . . . . .  C ADDR   0031H   A   
+DELAY. . . . . . .  C ADDR   002FH   A   
+HERE1. . . . . . .  C ADDR   0005H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

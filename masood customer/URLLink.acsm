@@ -1,0 +1,29 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:d65921d6-a3eb-40ae-8bd5-1ca62703ca4c</distributor>
+  <operatorURL>http://drm.myebooks.gr/fulfillment</operatorURL>
+  <transaction>ACS-INAP-1021148778</transaction>
+  <expiration>2015-04-19T04:48:18-04:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:d6959755-0df3-46d8-b187-1c294d510b71</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">HTML5 - NexTGen Web - CPINTL</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aptech</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">20140120-5aptech Aptech Ltd</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">urn:isbn:OVHTML5001</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">English</dc:language>
+      <thumbnailURL>http://109.74.200.140/media/d6959755-0df3-46d8-b187-1c294d510b71.jpg</thumbnailURL>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:d6959755-0df3-46d8-b187-1c294d510b71</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>vKVRtPUMxi3y/v90ZzjfqQ5aaTs=</hmac>
+</fulfillmentToken>
