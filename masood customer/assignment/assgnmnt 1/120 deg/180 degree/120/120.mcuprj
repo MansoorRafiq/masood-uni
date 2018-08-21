@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="60" Class="CMCUProject" Path="" PathAbs="" ProjectType="1">
+<ProjectFolders/>
+<ProjectFiles/>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="0" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetFileType="6" SimPath="&amp;ASC..\..\..\..\Desktop\" SimPathAbs="&amp;ASCC:\Users\Mansoor Rafiq\Desktop\" SimFile="&amp;ASC120.hex" CodeLoadType="0">
+<Assembler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="0" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="6" IncludeOptions="&amp;ASC$MOD51" PreFilenameOptions="" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Assembler>
+</MCUProjectBuildSettings>
+</BuildSettings>
+</MCUProject>
