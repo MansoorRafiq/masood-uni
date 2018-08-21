@@ -1,0 +1,460 @@
+05-27 20:46:52.584875 (Engine) stream.py:235 : xmpp/RECV: 75 bytes
+05-27 20:46:52.609875 (Engine) client.py:1051 : xmpp/recv-notification: 923133659704@s.whatsapp.net/#3032617807 type=contacts
+05-27 20:46:52.612875 (Engine) sync.py:708 : sync/notif/update: jid=923432577521@s.whatsapp.net
+05-27 20:46:52.632875 (Engine) client.py:1371 : xmpp/post-ack: 923133659704@s.whatsapp.net/#3032617807 class=notification type=contacts
+05-27 20:46:52.636875 (Engine) stream.py:249 : xmpp/SEND: 114 bytes
+05-27 20:46:52.998875 (Engine) stream.py:235 : xmpp/RECV: 53 bytes
+05-27 20:50:57.633000 (Engine) stream.py:235 : xmpp/RECV: 75 bytes
+05-27 20:50:57.668000 (Engine) client.py:1051 : xmpp/recv-notification: 923133659704@s.whatsapp.net/#4098135412 type=contacts
+05-27 20:50:57.676000 (Engine) sync.py:708 : sync/notif/update: jid=923332902875@s.whatsapp.net
+05-27 20:50:57.698000 (Engine) client.py:1371 : xmpp/post-ack: 923133659704@s.whatsapp.net/#4098135412 class=notification type=contacts
+05-27 20:50:57.702000 (Engine) stream.py:249 : xmpp/SEND: 106 bytes
+05-27 20:50:58.041000 (Engine) stream.py:235 : xmpp/RECV: 158 bytes
+05-27 20:52:13.619500 (Engine) stream.py:235 : xmpp/RECV: 75 bytes
+05-27 20:52:13.658500 (Engine) client.py:1051 : xmpp/recv-notification: 923133659704@s.whatsapp.net/#3175280613 type=contacts
+05-27 20:52:13.661500 (Engine) sync.py:708 : sync/notif/update: jid=923422788850@s.whatsapp.net
+05-27 20:52:13.680500 (Engine) client.py:1371 : xmpp/post-ack: 923133659704@s.whatsapp.net/#3175280613 class=notification type=contacts
+05-27 20:52:13.684500 (Engine) stream.py:249 : xmpp/SEND: 114 bytes
+05-27 20:52:14.091000 (Engine) stream.py:235 : xmpp/RECV: 53 bytes
+05-27 21:00:07.295625 (WhatsApp) viewobject.cpp:611 : Activate view ChatsView
+05-27 21:00:07.536750 (WhatsApp) chatctrl.cpp:168 : CChatCtrl/OpenChat/unread-count: 1/free RAM: 111575040
+05-27 21:00:07.624875 (WhatsApp) msgstoredb.cpp:1617 : MsgStoreDb - table: chat3_923323273804, last id: 1
+05-27 21:00:07.683250 (WhatsApp) chatctrl.cpp:1384 : CChatCtrl/InitialHistoryL/count: 1
+05-27 21:00:07.692500 (WhatsApp) msgstore.cpp:251 : Retrieved 1 msgs in total, for 1 unread msgs, for chat3_923323273804
+05-27 21:00:07.950125 (Engine) client.py:1409 : xmpp/send-subscribe: 923323273804
+05-27 21:00:07.955125 (Engine) personal.py:466 : chat/subscribe: jid=923323273804@s.whatsapp.net status=None
+05-27 21:00:07.960125 (Engine) stream.py:249 : xmpp/SEND: 36 bytes
+05-27 21:00:08.016000 (WhatsApp) chatctrl.cpp:1480 : CChatCtrl/RestoreHistoryL/count: 10
+05-27 21:00:08.018000 (WhatsApp) msgstore.cpp:270 : Retrieved 0 msgs for chat3_923323273804
+05-27 21:00:08.456125 (WhatsApp) viewobject.cpp:611 : Activate view ChatView
+05-27 21:00:08.565500 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 1
+05-27 21:00:08.754000 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatsView
+05-27 21:00:08.884500 (Engine) client.py:497 : xmpp/presence-available
+05-27 21:00:08.888500 (Engine) stream.py:249 : xmpp/SEND: 25 bytes
+05-27 21:00:09.022000 (Engine) notifier.py:293 : softnote/cancel
+05-27 21:00:09.066500 (Engine) statemon.py:154 : heap:  7949036 [################......................................................] 23.69%; 106.0M RAM free
+05-27 21:00:09.257250 (Engine) stream.py:235 : xmpp/RECV: 34 bytes
+05-27 21:00:09.270625 (Engine) client.py:1113 : xmpp/recv-presence: 923133659704@s.whatsapp.net/# type=available
+05-27 21:00:09.280625 (Engine) client.py:1409 : xmpp/send-subscribe: 923323273804
+05-27 21:00:09.283250 (Engine) personal.py:466 : chat/subscribe: jid=923323273804@s.whatsapp.net status=None
+05-27 21:00:09.294250 (Engine) stream.py:249 : xmpp/SEND: 36 bytes
+05-27 21:00:09.306250 (Engine) stream.py:235 : xmpp/RECV: 38 bytes
+05-27 21:00:09.314250 (Engine) client.py:1113 : xmpp/recv-presence: 923323273804@s.whatsapp.net/# type=unavailable
+05-27 21:00:09.318250 (Engine) personal.py:352 : chat/presence: jid=923323273804@s.whatsapp.net type=unavailable
+05-27 21:00:09.320250 (Engine) personal.py:466 : chat/subscribe: jid=923323273804@s.whatsapp.net status=deny
+05-27 21:00:09.666250 (Engine) stream.py:235 : xmpp/RECV: 38 bytes
+05-27 21:00:09.675875 (Engine) client.py:1113 : xmpp/recv-presence: 923323273804@s.whatsapp.net/# type=unavailable
+05-27 21:00:09.679875 (Engine) personal.py:352 : chat/presence: jid=923323273804@s.whatsapp.net type=unavailable
+05-27 21:00:09.681875 (Engine) personal.py:466 : chat/subscribe: jid=923323273804@s.whatsapp.net status=deny
+05-27 21:00:09.736375 (WhatsApp) chatctrl.cpp:215 : CChatCtrl/CloseChat/current store ptr: 0x9fc420
+05-27 21:00:09.742375 (WhatsApp) chatctrl.cpp:242 : CChatCtrl/CloseChat/free RAM: 111206400
+05-27 21:00:09.778375 (WhatsApp) viewobject.cpp:611 : Activate view ChatsView
+05-27 21:00:09.942875 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatView
+05-27 21:00:09.944875 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 0
+05-27 21:00:12.559875 (Engine) statemon.py:154 : heap:  7830728 [################......................................................] 23.34%; 106.1M RAM free
+05-27 21:00:35.753000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:00:35.760000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:00:41.427875 (Engine) client.py:488 : xmpp/presence-unavailable
+05-27 21:00:41.438875 (Engine) stream.py:249 : xmpp/SEND: 25 bytes
+05-27 21:00:41.723125 (Engine) stream.py:235 : xmpp/RECV: 36 bytes
+05-27 21:00:41.745125 (Engine) client.py:1113 : xmpp/recv-presence: 923133659704@s.whatsapp.net/# type=unavailable
+05-27 21:08:44.470250 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=71
+05-27 21:08:44.662250 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=-11268520s (130 day(s), 10:08:40)
+05-27 21:08:44.673250 (Engine) tools.py:368 : free: C=350.5M, Z=0, E=12.0G, D=107.0M, RAM=107.0M
+05-27 21:17:33.255000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:17:33.488000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:21:39.238375 (Engine) activeobject.cpp:384 : CPyActive::HandleTimeOut
+05-27 21:21:39.467375 (Engine) stream.py:223 : xmpp/receiver-error: SymbianError: [Errno -33] KErrTimedOut
+05-27 21:21:39.474375 (Engine) tools.py:231 : xmpp/new-keepalive: 00:02:00
+05-27 21:21:39.481375 (Engine) client.py:870 : xmpp/disconnect
+05-27 21:21:39.530375 (Engine) provider.py:118 : apman/saved(LANService): save [5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 21:21:39.545375 (Engine) client.py:154 : xmpp/state: connected -> disconnected (after 00:38:04)
+05-27 21:21:39.549375 (Engine) client.py:457 : xmpp/schedule-reconnect: after 00:00:15
+05-27 21:21:39.559375 (Engine) wlan.py:284 : wlan-notifier/start: scan-interval=-1
+05-27 21:21:54.567500 (Engine) client.py:726 : xmpp/connect
+05-27 21:21:54.576500 (Engine) client.py:154 : xmpp/state: disconnected -> connecting (after 00:00:15)
+05-27 21:21:54.618500 (Engine) __init__.py:198 : apman/find: provider-count=4
+05-27 21:21:54.620500 (Engine) __init__.py:200 : apman/find: provider: saved(LANService)
+05-27 21:21:54.622500 (Engine) __init__.py:200 : apman/find: provider: wlan
+05-27 21:21:54.623500 (Engine) __init__.py:200 : apman/find: provider: sticky
+05-27 21:21:54.624500 (Engine) __init__.py:200 : apman/find: provider: cellular
+05-27 21:21:54.626500 (Engine) __init__.py:208 : apman/saved(LANService): init
+05-27 21:21:54.628500 (Engine) __init__.py:216 : apman/saved(LANService): next
+05-27 21:21:54.634500 (Engine) __init__.py:226 : apman/saved(LANService): trying: iap=[5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 21:21:54.661500 (Engine) __init__.py:317 : apman/info: hardware=28:D1:AF:B7:A4:B3, features=268, dns2=192.168.8.1, dns1=192.168.8.1, netmask=0.0.0.0, mtu=1500, broadcast=0.0.0.0, state=1, address=192.168.8.100, iapid=5, speed=10000, gateway=192.168.8.1, name=wlan[0x00d09f88]
+05-27 21:21:54.664500 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 21:21:54.673500 (Engine) client.py:514 : xmpp/direct-connect: address=169.55.67.229:443
+05-27 21:21:54.996500 (Engine) client.py:514 : xmpp/direct-login: 923133659704
+05-27 21:21:55.068500 (Engine) stream.py:299 : xmpp/SEND: 4 bytes
+05-27 21:21:55.078500 (Engine) login.py:121 : xmpp/login: resume
+05-27 21:21:55.173500 (Engine) stream.py:299 : xmpp/SEND: 215 bytes
+05-27 21:21:55.704750 (Engine) stream.py:336 : xmpp/RECV: 57 bytes
+05-27 21:21:55.831750 (Engine) stream.py:336 : xmpp/RECV: 230 bytes
+05-27 21:21:55.840750 (Engine) login.py:214 : xmpp/login: result: success
+05-27 21:21:55.862750 (Engine) __init__.py:242 : apman/connected: iap=[5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 21:21:55.870750 (Engine) provider.py:118 : apman/saved(LANService): save [5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 21:21:55.875750 (Engine) client.py:714 : xmpp/login: presence-unavailable
+05-27 21:21:55.878750 (Engine) stream.py:299 : xmpp/SEND: 34 bytes
+05-27 21:21:56.059250 (Engine) client.py:154 : xmpp/state: connecting -> connected (after 00:00:01)
+05-27 21:21:56.067250 (Engine) wlan.py:294 : wlan-notifier: stop
+05-27 21:21:56.068250 (Engine) client.py:863 : xmpp/connect-ok: skew=-157766408.161
+05-27 21:21:56.072250 (Engine) client.py:1051 : xmpp/recv-message: 923352851828@s.whatsapp.net/#7F6A4FCEF29954FD2B type=text
+05-27 21:21:56.236250 (Engine) msgprocessor.py:1131 : chat/recv-message: 923352851828@s.whatsapp.net/#7F6A4FCEF29954FD2B sizes=4/0/0
+05-27 21:21:56.517625 (Engine) client.py:1345 : xmpp/post-receipt: 923352851828@s.whatsapp.net/#7F6A4FCEF29954FD2B type=delivery
+05-27 21:21:56.521625 (Engine) stream.py:249 : xmpp/SEND: 46 bytes
+05-27 21:21:56.604625 (Engine) client.py:1177 : xmpp/ready: offline=1
+05-27 21:21:56.609625 (Engine) sync.py:635 : sync/wait: until=<2017-06-01 10:12:42.813875>
+05-27 21:22:55.890000 (Engine) provider.py:154 : apman/saved(LANService): unsave [5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 21:23:56.067500 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:23:56.076500 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:25:56.114375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:25:56.332375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:27:56.364375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:27:56.582375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:29:56.614375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:29:56.832375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:31:56.864375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:31:57.082375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:33:57.114375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:33:57.332375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:35:57.364375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:35:57.582375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:37:57.614375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:37:57.832375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:39:57.888000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:39:57.903000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:40:57.275875 (Engine) stream.py:235 : xmpp/RECV: 37 bytes
+05-27 21:40:57.298875 (Engine) client.py:1197 : xmpp/recv-iq: s.whatsapp.net# type=get xmlns=urn:xmpp:ping
+05-27 21:40:57.475875 (Engine) client.py:1207 : xmpp/recv-ping: skew=-157766408.699
+05-27 21:40:57.478875 (Engine) stream.py:249 : xmpp/SEND: 27 bytes
+05-27 21:41:57.942500 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:41:57.951500 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:43:58.005000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:43:58.223000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:45:58.255000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:45:58.473000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:47:58.505000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:47:58.723000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:49:58.755000 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:49:58.973000 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:50:07.882750 (Engine) stream.py:235 : xmpp/RECV: 93 bytes
+05-27 21:50:07.907750 (Engine) client.py:1051 : xmpp/recv-notification: 923452887519@s.whatsapp.net/#870922718 type=picture
+05-27 21:50:07.915750 (Engine) clientobserver.py:170 : picture-notification: jid=923452887519@s.whatsapp.net, oper=set
+05-27 21:50:07.942750 (Engine) clientobserver.py:136 : unconsumed: wap.Element('notification', {'type': 'picture', 't': '1495903816', 'from': wap.JID('923452887519@s.whatsapp.net'), 'id': '870922718', 'notify': 'zeeshan09'}, [wap.Element('set', {'jid': wap.JID('923452887519@s.whatsapp.net'), 'id': '1495903816'}, [])])
+05-27 21:50:07.947750 (Engine) client.py:1371 : xmpp/post-ack: 923452887519@s.whatsapp.net/#870922718 class=notification type=picture
+05-27 21:50:07.957750 (Engine) stream.py:249 : xmpp/SEND: 46 bytes
+05-27 21:51:59.020625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:51:59.238625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:53:59.270625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:53:59.488625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:55:59.520625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:55:59.738625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 21:57:59.770625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 21:57:59.988625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:00:00.020625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:00:00.239375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:02:00.270625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:02:00.488625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:02:43.901375 (Engine) stream.py:235 : xmpp/RECV: 100 bytes
+05-27 22:02:43.926375 (Engine) client.py:1051 : xmpp/recv-notification: 923152287360@s.whatsapp.net/#621406747 type=picture
+05-27 22:02:43.933375 (Engine) clientobserver.py:170 : picture-notification: jid=923152287360@s.whatsapp.net, oper=set
+05-27 22:02:43.980375 (Engine) clientobserver.py:136 : unconsumed: wap.Element('notification', {'type': 'picture', 't': '1495904572', 'from': wap.JID('923152287360@s.whatsapp.net'), 'id': '621406747', 'notify': 'sohail karim\xf0\x9f\x99\x82'}, [wap.Element('set', {'jid': wap.JID('923152287360@s.whatsapp.net'), 'id': '1495904572'}, [])])
+05-27 22:02:43.986375 (Engine) client.py:1371 : xmpp/post-ack: 923152287360@s.whatsapp.net/#621406747 class=notification type=picture
+05-27 22:02:43.996375 (Engine) stream.py:249 : xmpp/SEND: 46 bytes
+05-27 22:04:00.520625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:04:00.738625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:06:00.770625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:06:00.988625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:08:01.020625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:08:01.238625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:10:01.278625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:10:01.292625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:12:01.333125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:12:01.551125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:14:01.598750 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:14:01.816750 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:16:01.848750 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:16:02.066750 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:18:02.098750 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:18:02.316750 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:20:02.348750 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:20:02.566750 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:21:44.944125 (Engine) stream.py:235 : xmpp/RECV: 37 bytes
+05-27 22:21:45.161625 (Engine) client.py:1197 : xmpp/recv-iq: s.whatsapp.net# type=get xmlns=urn:xmpp:ping
+05-27 22:21:45.339625 (Engine) client.py:1207 : xmpp/recv-ping: skew=-157766407.836
+05-27 22:21:45.343625 (Engine) stream.py:249 : xmpp/SEND: 27 bytes
+05-27 22:22:02.598750 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:22:02.607750 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:24:02.645625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:24:02.863625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:26:02.895625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:26:03.113625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:28:03.145625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:28:03.363625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:30:03.395625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:30:03.613625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:32:03.645625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:32:03.864500 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:34:03.895625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:34:04.113625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:36:04.145625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:36:04.363625 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:38:04.395625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:38:04.614125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:40:04.653625 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:40:04.669250 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:40:45.983625 (Engine) stream.py:235 : xmpp/RECV: 37 bytes
+05-27 22:40:46.006625 (Engine) client.py:1197 : xmpp/recv-iq: s.whatsapp.net# type=get xmlns=urn:xmpp:ping
+05-27 22:40:46.177625 (Engine) client.py:1207 : xmpp/recv-ping: skew=-157766408.992
+05-27 22:40:46.181625 (Engine) stream.py:249 : xmpp/SEND: 27 bytes
+05-27 22:42:04.708125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:42:04.926125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:44:04.958125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:44:05.176125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:46:05.208125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:46:05.426125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:48:05.458125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:48:05.676125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:50:05.708125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:50:05.926125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:52:05.956125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:52:06.172125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:54:06.208125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:54:06.426125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:56:06.458125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:56:06.676125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:58:06.708125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 22:58:06.926125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 22:59:47.230625 (Engine) stream.py:235 : xmpp/RECV: 37 bytes
+05-27 22:59:47.449500 (Engine) client.py:1197 : xmpp/recv-iq: s.whatsapp.net# type=get xmlns=urn:xmpp:ping
+05-27 22:59:47.632500 (Engine) client.py:1207 : xmpp/recv-ping: skew=-157766408.549
+05-27 22:59:47.636500 (Engine) stream.py:249 : xmpp/SEND: 27 bytes
+05-27 23:00:06.955125 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:00:06.960125 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:02:06.989375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:02:07.207375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:04:07.239375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:04:07.457375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:06:07.489375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:06:07.707375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:08:07.739375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:08:07.957375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:10:07.997375 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:10:08.012375 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:12:08.051875 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:12:08.269875 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:14:08.301875 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:14:08.519875 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:16:08.551875 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:16:08.769875 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:18:08.801875 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:18:09.019875 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:18:48.374625 (Engine) stream.py:235 : xmpp/RECV: 37 bytes
+05-27 23:18:48.397625 (Engine) client.py:1197 : xmpp/recv-iq: s.whatsapp.net# type=get xmlns=urn:xmpp:ping
+05-27 23:18:48.568625 (Engine) client.py:1207 : xmpp/recv-ping: skew=-157766408.6
+05-27 23:18:48.572625 (Engine) stream.py:249 : xmpp/SEND: 27 bytes
+05-27 23:20:09.051875 (Engine) tools.py:236 : xmpp/keepalive
+05-27 23:20:09.269875 (Engine) stream.py:249 : xmpp/SEND: 3 bytes
+05-27 23:21:30.728750 (Engine) stream.py:235 : xmpp/RECV: 52 bytes
+05-27 23:21:30.948500 (Engine) client.py:1236 : xmpp/recv-stream-error: system-shutdown
+05-27 23:21:30.957500 (Engine) client.py:1246 : xmpp/recv-stream-end
+05-27 23:21:30.962500 (Engine) client.py:870 : xmpp/disconnect
+05-27 23:21:31.041500 (Engine) provider.py:118 : apman/saved(LANService): save [5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 23:21:31.043500 (Engine) login.py:238 : xmpp/close
+05-27 23:21:31.046500 (Engine) stream.py:299 : xmpp/SEND: 48 bytes
+05-27 23:21:31.052500 (Engine) client.py:154 : xmpp/state: connected -> disconnected (after 01:59:34)
+05-27 23:21:31.055500 (Engine) client.py:457 : xmpp/schedule-reconnect: after 00:00:22
+05-27 23:21:31.064500 (Engine) wlan.py:284 : wlan-notifier/start: scan-interval=-1
+05-27 23:21:32.098750 (Engine) login.py:252 : xmpp/close-ok
+05-27 23:21:53.067500 (Engine) client.py:726 : xmpp/connect
+05-27 23:21:53.076500 (Engine) client.py:154 : xmpp/state: disconnected -> connecting (after 00:00:22)
+05-27 23:21:53.107500 (Engine) __init__.py:198 : apman/find: provider-count=4
+05-27 23:21:53.113500 (Engine) __init__.py:200 : apman/find: provider: saved(LANService)
+05-27 23:21:53.117500 (Engine) __init__.py:200 : apman/find: provider: wlan
+05-27 23:21:53.118500 (Engine) __init__.py:200 : apman/find: provider: sticky
+05-27 23:21:53.120500 (Engine) __init__.py:200 : apman/find: provider: cellular
+05-27 23:21:53.121500 (Engine) __init__.py:208 : apman/saved(LANService): init
+05-27 23:21:53.123500 (Engine) __init__.py:216 : apman/saved(LANService): next
+05-27 23:21:53.130500 (Engine) __init__.py:226 : apman/saved(LANService): trying: iap=[5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 23:21:53.156500 (Engine) __init__.py:317 : apman/info: hardware=28:D1:AF:B7:A4:B3, features=268, dns2=192.168.8.1, dns1=192.168.8.1, netmask=0.0.0.0, mtu=1500, broadcast=0.0.0.0, state=1, address=192.168.8.100, iapid=5, speed=10000, gateway=192.168.8.1, name=wlan[0x00d09f88]
+05-27 23:21:53.160500 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 23:21:53.166500 (Engine) client.py:514 : xmpp/direct-connect: address=158.85.48.241:443
+05-27 23:21:53.521500 (Engine) client.py:514 : xmpp/direct-login: 923133659704
+05-27 23:21:53.586500 (Engine) stream.py:299 : xmpp/SEND: 4 bytes
+05-27 23:21:53.595500 (Engine) login.py:121 : xmpp/login: resume
+05-27 23:21:53.686500 (Engine) stream.py:299 : xmpp/SEND: 215 bytes
+05-27 23:21:54.228125 (Engine) stream.py:336 : xmpp/RECV: 57 bytes
+05-27 23:21:57.303375 (Engine) stream.py:336 : xmpp/RECV: 26 bytes
+05-27 23:21:57.326500 (Engine) login.py:214 : xmpp/login: result: failure
+05-27 23:21:57.335500 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 23:21:57.341500 (Engine) __init__.py:260 : apman/aborted
+05-27 23:21:57.347500 (Engine) client.py:771 : xmpp/login-error: AuthError: 401
+05-27 23:21:57.353500 (Engine) client.py:154 : xmpp/state: connecting -> disconnected (after 00:00:04)
+05-27 23:22:29.252000 (Engine) notifier.py:329 : softnote/show
+05-27 23:22:31.439875 (WhatsApp) viewobject.cpp:611 : Activate view ChatsView
+05-27 23:22:31.446875 (WhatsApp) chatctrl.cpp:168 : CChatCtrl/OpenChat/unread-count: 1/free RAM: 112021504
+05-27 23:22:31.448875 (WhatsApp) msgstoredb.cpp:1617 : MsgStoreDb - table: chat3_923352851828, last id: 8
+05-27 23:22:31.449875 (WhatsApp) chatctrl.cpp:1384 : CChatCtrl/InitialHistoryL/count: 1
+05-27 23:22:31.451875 (WhatsApp) msgstore.cpp:251 : Retrieved 1 msgs in total, for 1 unread msgs, for chat3_923352851828
+05-27 23:22:31.566000 (WhatsApp) chatctrl.cpp:1480 : CChatCtrl/RestoreHistoryL/count: 10
+05-27 23:22:31.624375 (WhatsApp) msgstore.cpp:270 : Retrieved 7 msgs for chat3_923352851828
+05-27 23:22:32.567250 (WhatsApp) viewobject.cpp:611 : Activate view ChatView
+05-27 23:22:32.609750 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 1
+05-27 23:22:32.732750 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatsView
+05-27 23:22:34.052000 (Engine) client.py:1345 : xmpp/post-receipt: 923352851828@s.whatsapp.net/#7F6A4FCEF29954FD2B type=read
+05-27 23:22:34.066000 (Engine) basechat.py:1504 : error in resend_receipts from Engine\clientapi\service\client.py(1274) in post_stanza:
+NotConnectedError: 
+05-27 23:22:34.082000 (Engine) notifier.py:293 : softnote/cancel
+05-27 23:22:36.758375 (Engine) wlan.py:334 : wlan-notifier: event=detected
+05-27 23:22:36.761375 (Engine) wlan.py:334 : wlan-notifier: event=lost
+05-27 23:22:36.785375 (Engine) esocketmodule.cpp:148 : enum_iaps: iap=5, type=, full=0
+05-27 23:22:36.788375 (Engine) esocketmodule.cpp:291 : enum_iaps/done: error=0, count=1
+05-27 23:22:36.790375 (Engine) esocketmodule.cpp:148 : enum_iaps: iap=7, type=, full=0
+05-27 23:22:36.793375 (Engine) esocketmodule.cpp:291 : enum_iaps/done: error=0, count=1
+05-27 23:22:36.795375 (Engine) wlan.py:328 : wlan-notifier: known-detected=([5|LANService|u'ZONG MBB-E5573-47CA'], [7|LANService|u'ZONG MBB-E5573-47CA(01)'])
+05-27 23:22:36.980125 (WhatsApp) chatctrl.cpp:215 : CChatCtrl/CloseChat/current store ptr: 0xf7c148
+05-27 23:22:36.993125 (WhatsApp) chatctrl.cpp:242 : CChatCtrl/CloseChat/free RAM: 111181824
+05-27 23:22:37.030000 (WhatsApp) viewobject.cpp:611 : Activate view ChatsView
+05-27 23:22:37.175250 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatView
+05-27 23:22:37.177250 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 0
+05-27 23:22:46.156125 (Engine) __init__.py:55 : picture/get: name=923332902875, type=preview
+05-27 23:22:46.159125 (Engine) picture.py:401 : picture/retrieve-thumbnail: error in retrieve_thumbnail from Engine\clientapi\service\client.py(1281) in request_iq:
+NotConnectedError: 
+05-27 23:22:52.337250 (WhatsApp) chatctrl.cpp:168 : CChatCtrl/OpenChat/unread-count: 0/free RAM: 111423488
+05-27 23:22:52.341250 (WhatsApp) msgstoredb.cpp:1617 : MsgStoreDb - table: chat3_923352851828, last id: 8
+05-27 23:22:52.344250 (WhatsApp) chatctrl.cpp:1384 : CChatCtrl/InitialHistoryL/count: 0
+05-27 23:22:52.346250 (WhatsApp) chatctrl.cpp:1480 : CChatCtrl/RestoreHistoryL/count: 10
+05-27 23:22:52.350250 (WhatsApp) msgstore.cpp:270 : Retrieved 8 msgs for chat3_923352851828
+05-27 23:22:53.038625 (WhatsApp) viewobject.cpp:611 : Activate view ChatView
+05-27 23:22:53.119375 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 1
+05-27 23:22:53.379750 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatsView
+05-27 23:22:55.985125 (WhatsApp) sendbutton.cpp:198 : CSendButton/SetInert/aInert: 1
+05-27 23:23:00.935000 (WhatsApp) tools.py:427 : chatstate/skip: 923352851828@s.whatsapp.net/ state=text
+05-27 23:23:01.816250 (WhatsApp) chatctrl.cpp:1197 : CChatCtrl/SendTextMessageL
+05-27 23:23:01.822250 (WhatsApp) chatctrl.cpp:1216 : CChatCtrl/SendMessageL
+05-27 23:23:01.911250 (WhatsApp) sendbutton.cpp:198 : CSendButton/SetInert/aInert: 0
+05-27 23:23:02.529500 (Engine) basechat.py:1413 : chat/send-message: 923352851828@s.whatsapp.net/#5E47F572733AD03020
+05-27 23:23:02.531500 (Engine) client.py:1303 : xmpp/post-message: 923352851828@s.whatsapp.net/#5E47F572733AD03020 type=text
+05-27 23:23:02.533500 (Engine) client.py:1305 : error in post_message from Engine\clientapi\service\client.py(1274) in post_stanza:
+NotConnectedError: 
+05-27 23:23:02.536500 (Engine) client.py:726 : xmpp/connect
+05-27 23:23:02.538500 (Engine) client.py:154 : xmpp/state: disconnected -> connecting (after 00:01:05)
+05-27 23:23:02.550500 (Engine) __init__.py:198 : apman/find: provider-count=4
+05-27 23:23:02.552500 (Engine) __init__.py:200 : apman/find: provider: wlan
+05-27 23:23:02.554500 (Engine) __init__.py:200 : apman/find: provider: wlanprompt
+05-27 23:23:02.555500 (Engine) __init__.py:200 : apman/find: provider: sticky
+05-27 23:23:02.557500 (Engine) __init__.py:200 : apman/find: provider: cellular
+05-27 23:23:02.558500 (Engine) __init__.py:208 : apman/wlan: init
+05-27 23:23:02.565500 (Engine) esocketmodule.cpp:148 : enum_iaps: iap=0, type=LANService, full=0
+05-27 23:23:02.570500 (Engine) esocketmodule.cpp:291 : enum_iaps/done: error=0, count=4
+05-27 23:23:03.769250 (Engine) wlan.py:334 : wlan-notifier: event=lost
+05-27 23:23:03.931000 (Engine) wlan.py:86 : apman/wlan: access-points: internet=0, other=2
+05-27 23:23:03.933000 (Engine) wlan.py:96 : apman/wlan: access-points: [5|LANService|u'ZONG MBB-E5573-47CA'] other-iap
+05-27 23:23:03.935000 (Engine) wlan.py:96 : apman/wlan: access-points: [7|LANService|u'ZONG MBB-E5573-47CA(01)'] other-iap
+05-27 23:23:03.938000 (Engine) __init__.py:216 : apman/wlan: next
+05-27 23:23:03.945000 (Engine) wlan.py:149 : apman/wlan: starting: [5|LANService|u'ZONG MBB-E5573-47CA'] other-iap
+05-27 23:23:04.186250 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KFinishedSelection
+05-27 23:23:04.192250 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KFinishedSelection
+05-27 23:23:04.867375 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KConfigDaemonLoading
+05-27 23:23:04.874375 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KConfigDaemonLoaded
+05-27 23:23:04.881000 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KConfigDaemonStartingRegistration
+05-27 23:23:04.887000 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KConfigDaemonStartingRegistration
+05-27 23:23:05.534250 (Engine) statemon.py:154 : heap:  8114968 [################......................................................] 24.18%; 105.9M RAM free
+05-27 23:23:07.019125 (Engine) connectionobject.cpp:340 : Connection.2309/started: iapid=5
+05-27 23:23:07.079125 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KLinkLayerOpen
+05-27 23:23:07.088125 (Engine) provider.py:308 : apman/ap-progress: iap=[5|LANService|u'ZONG MBB-E5573-47CA'], stage=KLinkLayerOpen
+05-27 23:23:07.097750 (Engine) __init__.py:226 : apman/wlan: trying: iap=[5|LANService|u'ZONG MBB-E5573-47CA']
+05-27 23:23:07.118375 (Engine) __init__.py:317 : apman/info: hardware=28:D1:AF:B7:A4:B3, features=268, dns2=192.168.8.1, dns1=192.168.8.1, netmask=0.0.0.0, mtu=1500, broadcast=0.0.0.0, state=1, address=192.168.8.100, iapid=5, speed=10000, gateway=192.168.8.1, name=wlan[0x00d09130]
+05-27 23:23:07.122375 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 23:23:07.128375 (Engine) client.py:514 : xmpp/direct-connect: address=169.47.35.61:443
+05-27 23:23:07.400000 (Engine) client.py:514 : xmpp/direct-login: 923133659704
+05-27 23:23:07.465000 (Engine) stream.py:299 : xmpp/SEND: 4 bytes
+05-27 23:23:07.476000 (Engine) login.py:121 : xmpp/login: resume
+05-27 23:23:07.785875 (Engine) stream.py:299 : xmpp/SEND: 215 bytes
+05-27 23:23:08.043125 (Engine) stream.py:336 : xmpp/RECV: 256 bytes
+05-27 23:23:08.066125 (Engine) login.py:140 : xmpp/login: fallback
+05-27 23:23:08.208625 (Engine) login.py:310 : xmpp/login/cert: issuer='WhatsAppLongTerm1' subject='Chat Static Public Key' serial=1
+05-27 23:23:08.300000 (Engine) stream.py:299 : xmpp/SEND: 181 bytes
+05-27 23:23:10.592125 (Engine) stream.py:336 : xmpp/RECV: 26 bytes
+05-27 23:23:10.603125 (Engine) login.py:214 : xmpp/login: result: failure
+05-27 23:23:10.607125 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 23:23:10.610125 (Engine) __init__.py:260 : apman/aborted
+05-27 23:23:10.613125 (Engine) client.py:771 : xmpp/login-error: AuthError: 401
+05-27 23:23:10.617125 (Engine) client.py:154 : xmpp/state: connecting -> disconnected (after 00:00:08)
+05-27 23:23:14.056125 (WhatsApp) chatctrl.cpp:215 : CChatCtrl/CloseChat/current store ptr: 0xf7c148
+05-27 23:23:14.074500 (WhatsApp) chatctrl.cpp:242 : CChatCtrl/CloseChat/free RAM: 111415296
+05-27 23:23:14.133500 (WhatsApp) viewobject.cpp:611 : Activate view ChatsView
+05-27 23:23:14.284250 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatView
+05-27 23:23:14.285250 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 0
+05-27 23:23:15.550000 (Engine) wlan.py:334 : wlan-notifier: event=detected
+05-27 23:23:24.304375 (Engine) wlan.py:334 : wlan-notifier: event=detected
+05-27 23:23:26.978125 (Engine) statemon.py:154 : heap:  8009084 [################......................................................] 23.87%; 108.5M RAM free
+05-27 23:23:35.457125 (WhatsApp) chatctrl.cpp:168 : CChatCtrl/OpenChat/unread-count: 0/free RAM: 110870528
+05-27 23:23:35.464125 (WhatsApp) msgstoredb.cpp:1617 : MsgStoreDb - table: chat3_923352851828, last id: 9
+05-27 23:23:35.466125 (WhatsApp) chatctrl.cpp:1384 : CChatCtrl/InitialHistoryL/count: 0
+05-27 23:23:35.467125 (WhatsApp) chatctrl.cpp:1480 : CChatCtrl/RestoreHistoryL/count: 10
+05-27 23:23:35.474125 (WhatsApp) msgstore.cpp:270 : Retrieved 9 msgs for chat3_923352851828
+05-27 23:23:36.217500 (WhatsApp) viewobject.cpp:611 : Activate view ChatView
+05-27 23:23:36.318000 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 1
+05-27 23:23:36.496875 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatsView
+05-27 23:23:37.408250 (Engine) statemon.py:154 : heap:  8082232 [################......................................................] 24.09%; 104.4M RAM free
+05-27 23:23:40.519000 (WhatsApp) tools.py:427 : chatstate/skip: 923352851828@s.whatsapp.net/ state=text
+05-27 23:23:41.035250 (WhatsApp) chatctrl.cpp:1197 : CChatCtrl/SendTextMessageL
+05-27 23:23:41.038250 (WhatsApp) chatctrl.cpp:1216 : CChatCtrl/SendMessageL
+05-27 23:23:41.498375 (Engine) basechat.py:1413 : chat/send-message: 923352851828@s.whatsapp.net/#06BF849E3D5CAE96EB
+05-27 23:23:41.502375 (Engine) client.py:1303 : xmpp/post-message: 923352851828@s.whatsapp.net/#06BF849E3D5CAE96EB type=text
+05-27 23:23:41.504375 (Engine) client.py:1305 : error in post_message from Engine\clientapi\service\client.py(1274) in post_stanza:
+NotConnectedError: 
+05-27 23:23:41.506375 (Engine) client.py:726 : xmpp/connect
+05-27 23:23:41.508375 (Engine) client.py:154 : xmpp/state: disconnected -> connecting (after 00:00:30)
+05-27 23:23:41.521375 (Engine) __init__.py:198 : apman/find: provider-count=4
+05-27 23:23:41.523375 (Engine) __init__.py:200 : apman/find: provider: wlan
+05-27 23:23:41.524375 (Engine) __init__.py:200 : apman/find: provider: wlanprompt
+05-27 23:23:41.526375 (Engine) __init__.py:200 : apman/find: provider: sticky
+05-27 23:23:41.528375 (Engine) __init__.py:200 : apman/find: provider: cellular
+05-27 23:23:41.529375 (Engine) __init__.py:208 : apman/wlan: init
+05-27 23:23:41.532375 (Engine) esocketmodule.cpp:148 : enum_iaps: iap=0, type=LANService, full=0
+05-27 23:23:41.537375 (Engine) esocketmodule.cpp:291 : enum_iaps/done: error=0, count=4
+05-27 23:23:42.170375 (Engine) wlan.py:86 : apman/wlan: access-points: internet=0, other=2
+05-27 23:23:42.172375 (Engine) wlan.py:96 : apman/wlan: access-points: [5|LANService|u'ZONG MBB-E5573-47CA'] other-iap
+05-27 23:23:42.174375 (Engine) wlan.py:96 : apman/wlan: access-points: [7|LANService|u'ZONG MBB-E5573-47CA(01)'] other-iap, started
+05-27 23:23:42.177375 (Engine) __init__.py:216 : apman/wlan: next
+05-27 23:23:42.184375 (Engine) wlan.py:149 : apman/wlan: preexisting: [7|LANService|u'ZONG MBB-E5573-47CA(01)'] other-iap
+05-27 23:23:42.350750 (Engine) connectionobject.cpp:340 : Connection.2309/started: iapid=7
+05-27 23:23:42.357750 (Engine) provider.py:308 : apman/ap-progress: iap=[7|LANService|u'ZONG MBB-E5573-47CA(01)'], stage=KFinishedSelection
+05-27 23:23:42.369375 (Engine) provider.py:308 : apman/ap-progress: iap=[7|LANService|u'ZONG MBB-E5573-47CA(01)'], stage=KLinkLayerOpen
+05-27 23:23:42.377375 (Engine) provider.py:308 : apman/ap-progress: iap=[7|LANService|u'ZONG MBB-E5573-47CA(01)'], stage=KLinkLayerOpen
+05-27 23:23:42.384375 (Engine) __init__.py:226 : apman/wlan: trying: iap=[7|LANService|u'ZONG MBB-E5573-47CA(01)']
+05-27 23:23:42.408375 (Engine) __init__.py:317 : apman/info: hardware=28:D1:AF:B7:A4:B3, features=268, dns2=192.168.8.1, dns1=192.168.8.1, netmask=0.0.0.0, mtu=1500, broadcast=0.0.0.0, state=1, address=192.168.8.100, iapid=7, speed=10000, gateway=192.168.8.1, name=wlan[0x00d09130]
+05-27 23:23:42.411375 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 23:23:42.418375 (Engine) client.py:514 : xmpp/direct-connect: address=158.85.58.106:443
+05-27 23:23:42.895750 (Engine) client.py:514 : xmpp/direct-login: 923133659704
+05-27 23:23:42.992125 (Engine) stream.py:299 : xmpp/SEND: 4 bytes
+05-27 23:23:43.013000 (Engine) login.py:121 : xmpp/login: resume
+05-27 23:23:43.146750 (Engine) stream.py:299 : xmpp/SEND: 215 bytes
+05-27 23:23:43.695250 (Engine) stream.py:336 : xmpp/RECV: 57 bytes
+05-27 23:23:47.694125 (Engine) stream.py:336 : xmpp/RECV: 26 bytes
+05-27 23:23:47.721125 (Engine) login.py:214 : xmpp/login: result: failure
+05-27 23:23:47.730125 (Engine) settings.py:333 : error in get_password from Engine\util\crypto.py(155) in decrypt:
+ValueError: 0: size mismatch
+05-27 23:23:47.738125 (Engine) __init__.py:260 : apman/aborted
+05-27 23:23:47.744125 (Engine) client.py:771 : xmpp/login-error: AuthError: 401
+05-27 23:23:47.751125 (Engine) client.py:154 : xmpp/state: connecting -> disconnected (after 00:00:06)
+05-27 23:23:49.608250 (Engine) statemon.py:154 : heap:  8166476 [################>.....................................................] 24.34%; 106.0M RAM free
+05-27 23:23:51.823125 (WhatsApp) chatctrl.cpp:215 : CChatCtrl/CloseChat/current store ptr: 0xf7c148
+05-27 23:23:51.838125 (WhatsApp) chatctrl.cpp:242 : CChatCtrl/CloseChat/free RAM: 111550464
+05-27 23:23:51.874125 (WhatsApp) viewobject.cpp:611 : Activate view ChatsView
+05-27 23:23:52.023625 (WhatsApp) viewobject.cpp:611 : Deactivate view ChatView
+05-27 23:23:52.024625 (WhatsApp) chatctrl.cpp:288 : CChatCtrl/MakeVisible/val: 0
+05-27 23:23:52.612375 (Engine) statemon.py:154 : heap:  8047688 [################<.....................................................] 23.98%; 106.4M RAM free
+05-27 23:24:55.556375 (Engine) wlan.py:334 : wlan-notifier: event=lost
+05-27 23:26:56.669625 (Engine) wlan.py:334 : wlan-notifier: event=detected
+05-27 23:36:57.872125 (Engine) wlan.py:334 : wlan-notifier: event=lost
+05-27 23:46:58.973875 (Engine) wlan.py:334 : wlan-notifier: event=detected
+05-27 23:46:59.193875 (Engine) wlan.py:334 : wlan-notifier: event=lost

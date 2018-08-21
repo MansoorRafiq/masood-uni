@@ -1,0 +1,10 @@
+05-20 23:59:50.126000 (Engine) tools.py:352 : SW 022.014 2011-07-05 RM-626 (c) Nokia
+05-20 23:59:50.153000 (Engine) tools.py:353 : E7-00, S60 (5, 2)
+05-20 23:59:50.158000 (Engine) tools.py:358 : WhatsApp 2.16.57 (gbe4a4ae) [2016-11-03] release
+05-20 23:59:50.218000 (Engine) tools.py:386 : phone-info: number=‪+92 313 3659704‬, imei=357909041908154, imsi=410040738313061
+05-20 23:59:50.223000 (Engine) tools.py:368 : free: C=360.8M, Z=0, E=12.1G, D=98.7M, RAM=98.7M
+05-20 23:59:51.064125 (Engine) logprocessor.py:141 : log-process: 'E:\\WALogs\\2017-05-20.log' => 'E:\\WALogs\\2017-05-20.log.3.gz'
+05-20 23:59:51.067125 (Engine) logprocessor.py:144 : log-process: no crashes found in log, not uploading
+05-20 23:59:51.069125 (Engine) logprocessor.py:203 : log-process-done
+05-20 23:59:51.072125 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=28
+05-20 23:59:51.077125 (Engine) tools.py:368 : free: C=360.8M, Z=0, E=12.1G, D=98.7M, RAM=98.7M

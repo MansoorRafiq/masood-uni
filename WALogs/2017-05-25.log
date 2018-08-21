@@ -1,0 +1,235 @@
+05-25 00:00:05.003000 (Engine) chats.py:674 : chats/relative-times-update
+05-25 00:00:05.035000 (Engine) chats.py:659 : chats/relative-times-update-scheduled: at=2017-05-26 00:00:05
+05-25 04:00:00.005000 (Engine) backup.py:24 : chat-db-backup
+05-25 04:00:00.190500 (Engine) backup.py:58 : chat-db-backup/run
+05-25 04:00:03.927250 (Engine) msgstoredb.cpp:3128 : ChatStoreDb/Journal/reset
+05-25 04:00:03.957125 (Engine) backup.py:69 : chat-db-backup/ok
+05-25 07:08:16.994250 (Engine) statemon.py:37 : EBatteryInfoChange: Status=BatteryConnectedButExternallyPowered, ChargeLevel=28
+05-25 07:08:17.004250 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=109.6M, RAM=109.6M
+05-25 07:08:17.008250 (Engine) monitors.py:128 : indicator: +ChargerConnected, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 07:50:13.992000 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=28
+05-25 07:50:14.223750 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=110.8M, RAM=110.9M
+05-25 07:50:14.227750 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=71
+05-25 07:50:14.231750 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=0s (00:00:00)
+05-25 07:50:14.241375 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=110.9M, RAM=110.9M
+05-25 07:50:14.246375 (Engine) monitors.py:128 : indicator: -ChargerConnected, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 08:07:32.117250 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=85
+05-25 08:07:32.341250 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=-74s (00:01:14)
+05-25 08:07:32.347250 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=111.0M, RAM=111.0M
+05-25 11:36:30.158125 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=71
+05-25 11:36:30.382125 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=895s (00:14:55)
+05-25 11:36:30.392125 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=110.2M, RAM=110.2M
+05-25 11:58:53.895750 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 11:59:54.488250 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:05:05.701125 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:06:41.502875 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:09:08.721000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:10:47.469625 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:13:46.816875 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:14:39.027000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:17:39.566625 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:18:08.616250 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:19:22.177875 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:19:27.254750 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:20:20.460250 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:21:52.531375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:34:49.585375 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 12:35:33.275125 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 13:26:06.800000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 13:27:46.213500 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:33:16.485375 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:33:21.803875 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:33:56.173625 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:34:20.389375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:36:12.971250 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:38:58.348500 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:39:49.995125 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:39:49.999125 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:40:20.281375 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 14:40:32.688875 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:40:36.971500 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 14:40:37.003000 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:41:08.760875 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:41:08.764875 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:41:25.939875 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 14:42:28.506750 (Engine) monitors.py:83 : network-status: ERegisteredRoaming
+05-25 14:42:28.510750 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:43:28.901375 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:43:28.905375 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:44:32.492375 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 14:47:22.914375 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 14:47:23.137750 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:52:04.873125 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:52:05.097750 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:52:43.735125 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 14:52:43.767125 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:53:05.775375 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:53:05.779375 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:53:20.304250 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 14:53:20.308250 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:55:47.473500 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:55:47.697500 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:56:01.353500 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 14:56:13.236875 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 14:56:13.240875 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:59:01.410125 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 14:59:01.634125 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 14:59:19.590125 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 14:59:25.818250 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 14:59:25.849250 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:04:17.512375 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:04:17.519375 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:04:34.654625 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 15:04:41.049000 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:04:41.054000 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:24:07.607500 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:24:07.831250 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:24:29.443500 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 15:24:40.705875 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:24:40.736875 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:33:31.796000 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:33:31.802000 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:33:50.991125 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 15:34:22.647625 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:34:54.361750 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 15:35:10.519375 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:35:10.523375 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:35:59.998375 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:36:00.005375 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:36:17.387000 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 15:37:50.557250 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:37:50.564250 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:39:09.700625 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:44:29.088250 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:47:54.748375 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:49:13.288000 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:49:13.295000 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:49:17.128000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:49:35.520875 (Engine) monitors.py:83 : network-status: ENotRegisteredNoService
+05-25 15:49:44.171250 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:49:44.176250 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:49:55.082875 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:57:33.202250 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:57:50.167250 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:57:50.174250 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:58:34.843750 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=57
+05-25 15:58:34.847750 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=1123s (00:18:43)
+05-25 15:58:34.851750 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=112.5M, RAM=112.5M
+05-25 15:58:36.038000 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:58:36.041000 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:58:52.031000 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 15:58:52.035000 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 15:59:52.363125 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 15:59:52.367125 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:00:18.552625 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 16:00:18.556625 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:00:31.794625 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 16:00:31.835125 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:02:21.282000 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 16:02:21.289000 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 16:02:21.292000 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:02:21.295000 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:02:33.959500 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:02:58.804750 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:03:57.655750 (Engine) monitors.py:83 : network-status: ENotRegisteredSearching
+05-25 16:03:57.661750 (Engine) monitors.py:128 : indicator: -NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:05:20.591125 (Engine) monitors.py:83 : network-status: ERegisteredOnHomeNetwork
+05-25 16:05:22.158250 (Engine) monitors.py:128 : indicator: +NetworkAvailable, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:05:33.464125 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:08:41.038000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:39:11.081000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:40:08.490375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:53:44.211125 (WhatsApp) sync.py:420 : sync/delta-background/not-allowed
+05-25 16:53:44.220750 (Engine) notifier.py:293 : softnote/cancel
+05-25 16:53:44.832125 (Engine) statemon.py:154 : heap:  7437700 [###############<......................................................] 22.17%; 112.1M RAM free
+05-25 16:54:04.025625 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:54:39.619875 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:55:33.698625 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 16:55:45.903000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:01:57.355250 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:02:00.564625 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:23:44.981250 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:44:05.920750 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:44:40.848500 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:44:47.573250 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:46:51.840125 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:48:16.634000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:49:00.592000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:49:13.807875 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:50:32.960125 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:51:14.131000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:51:51.674875 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:52:24.360250 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:54:46.676125 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 17:56:23.155000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:57:31.990375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 17:58:28.137250 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=42
+05-25 17:58:28.140250 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=479s (00:07:59)
+05-25 17:58:28.144250 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=106.5M, RAM=106.5M
+05-25 18:10:20.699125 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:12:19.826000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:19:05.785875 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:19:27.357250 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:30:53.760000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 18:31:12.211125 (Engine) statemon.py:37 : EBatteryInfoChange: Status=PoweredByBattery, ChargeLevel=28
+05-25 18:31:12.215125 (Engine) statemon.py:47 : EBatteryInfoChange: DrainRate=140s (00:02:20)
+05-25 18:31:12.219125 (Engine) tools.py:368 : free: C=360.1M, Z=0, E=12.0G, D=106.5M, RAM=106.5M
+05-25 18:41:37.497375 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 18:44:02.237375 (WhatsApp) sync.py:420 : sync/delta-background/not-allowed
+05-25 18:44:02.253000 (Engine) notifier.py:293 : softnote/cancel
+05-25 18:44:18.971125 (WhatsApp) sync.py:420 : sync/delta-background/not-allowed
+05-25 18:44:18.986375 (Engine) notifier.py:293 : softnote/cancel
+05-25 18:44:49.990000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:45:26.706500 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:51:56.353375 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 18:53:06.621625 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 18:53:23.565500 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:54:12.951875 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 18:59:50.439750 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:00:40.898500 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:03:49.438875 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:07:26.408000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:07:42.175125 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:08:21.503875 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:25:34.909875 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:26:52.863375 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:27:09.936250 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:28:08.692375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:44:21.672000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:44:51.373250 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:44:59.379125 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:48:39.928000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:48:51.123375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:50:02.839875 (WhatsApp) sync.py:420 : sync/delta-background/not-allowed
+05-25 19:50:02.851750 (Engine) notifier.py:293 : softnote/cancel
+05-25 19:51:20.791625 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:51:36.934000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:53:53.950000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:53:58.785500 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:54:39.259750 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:55:03.843625 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:55:17.147375 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:55:35.462125 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:55:57.004000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:58:16.013000 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:58:40.864375 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 19:58:50.222375 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 19:59:47.842500 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 20:00:44.342625 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 20:04:59.760875 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 20:05:21.634000 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 20:09:41.025000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 20:09:41.836625 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 20:12:06.940375 (Engine) monitors.py:128 : indicator: +CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 20:13:06.183250 (Engine) monitors.py:128 : indicator: -CallInProgress, caps=ChargerConnected|NetworkAvailable|CallInProgress
+05-25 20:19:54.438125 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 20:20:02.808625 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 20:20:11.478000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 21:21:28.651000 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 22:32:43.517750 : uidata.cpp(89) : CUiDataMtm/QueryCapability/cap: 0x100038ec
+05-25 22:32:49.492750 : uidata.cpp(59) : CUiDataMtm/dtor
+05-25 22:32:55.835375 (WAProcMgrServer) procmon.cpp:80 : ### Process monitor: C:\sys\bin\WhatsApp.exe #2188 [2002b30d] terminated (Terminate 0)
+05-25 22:32:55.862750 (WAProcMgrServer) procmgrserver.cpp:527 : ### Process Manager: Re-starting app. ###
+05-25 22:32:56.055750 (WAProcMgrServer) procmgrserver.cpp:506 : ### Process Manager: Re-start state reset to: 2
+05-25 22:32:56.058750 (WAProcMgrServer) procmgrserver.cpp:507 : ### Starting restart delay timer (10 secs) ...
+05-25 22:32:56.064500 (WAProcMgrServer) threadmon.cpp:86 : ### Thread monitor: WhatsApp #2189 [2002b30d] terminate (Terminate 0)
