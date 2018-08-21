@@ -1,0 +1,321 @@
+07/07/2011 05:58:07 Mail for Exchange Build : 1.00.000
+07/07/2011 05:58:07 Device Software Version: 022.014
+2011-07-05
+RM-626
+(c) Nokia
+07/07/2011 05:58:07 Device Model: E7-00
+07/07/2011 05:58:07 Serial Number: 357909041908154
+07/07/2011 05:58:07 ======== Activesync sync engine is starting up ========
+07/07/2011 05:58:07 Setting DISK FULL status to False
+07/07/2011 05:58:08 New phone SW version or 1st time to run, doing full resync
+07/07/2011 05:58:13 ======== Activesync sync engine is starting up ========
+07/07/2011 05:58:13 Setting DISK FULL status to False
+13/07/2011 09:18:16 ======== Activesync sync engine is starting up ========
+13/07/2011 09:18:16 Setting DISK FULL status to False
+13/07/2011 09:18:26 ======== Activesync sync engine is starting up ========
+13/07/2011 09:18:26 Setting DISK FULL status to False
+13/07/2011 09:19:57 ======== Activesync sync engine is starting up ========
+13/07/2011 09:19:57 Setting DISK FULL status to False
+13/07/2011 11:45:37 ======== Activesync sync engine is starting up ========
+13/07/2011 11:45:37 Setting DISK FULL status to False
+13/07/2011 12:37:44 ======== Activesync sync engine is starting up ========
+13/07/2011 12:37:44 Setting DISK FULL status to False
+13/07/2011 12:59:10 ======== Activesync sync engine is starting up ========
+13/07/2011 12:59:10 Setting DISK FULL status to False
+13/07/2011 13:01:53 ======== Activesync sync engine is starting up ========
+13/07/2011 13:01:53 Setting DISK FULL status to False
+13/07/2011 13:06:46 ======== Activesync sync engine is starting up ========
+13/07/2011 13:06:46 Setting DISK FULL status to False
+13/07/2011 13:06:50 ======== Activesync sync engine is starting up ========
+13/07/2011 13:06:50 Setting DISK FULL status to False
+13/07/2011 13:34:12 ======== Activesync sync engine is starting up ========
+13/07/2011 13:34:12 Setting DISK FULL status to False
+13/07/2011 13:34:15 ======== Activesync sync engine is starting up ========
+13/07/2011 13:34:15 Setting DISK FULL status to False
+13/07/2011 13:55:39 ======== Activesync sync engine is starting up ========
+13/07/2011 13:55:39 Setting DISK FULL status to False
+13/07/2011 09:00:15 ======== Activesync sync engine is starting up ========
+13/07/2011 09:00:15 Setting DISK FULL status to False
+13/07/2011 09:18:28 ======== Activesync sync engine is starting up ========
+13/07/2011 09:18:28 Setting DISK FULL status to False
+13/07/2011 09:20:42 ======== Activesync sync engine is starting up ========
+13/07/2011 09:20:42 Setting DISK FULL status to False
+04/04/2017 00:43:07 ======== Activesync sync engine is starting up ========
+04/04/2017 00:43:07 Setting DISK FULL status to False
+04/04/2017 00:43:10 New phone SW version or 1st time to run, doing full resync
+04/04/2017 00:43:13 ======== Activesync sync engine is starting up ========
+04/04/2017 00:43:13 Setting DISK FULL status to False
+04/04/2017 00:43:16 ======== Activesync sync engine is starting up ========
+04/04/2017 00:43:16 Setting DISK FULL status to False
+04/04/2017 11:23:58 ======== Activesync sync engine is starting up ========
+04/04/2017 11:23:58 Setting DISK FULL status to False
+04/04/2017 11:24:04 ======== Activesync sync engine is starting up ========
+04/04/2017 11:24:04 Setting DISK FULL status to False
+05/04/2017 01:13:48 ======== Activesync sync engine is starting up ========
+05/04/2017 01:13:48 Setting DISK FULL status to False
+05/04/2017 12:01:15 ======== Activesync sync engine is starting up ========
+05/04/2017 12:01:15 Setting DISK FULL status to False
+05/04/2017 14:19:02 ======== Activesync sync engine is starting up ========
+05/04/2017 14:19:02 Setting DISK FULL status to False
+05/04/2017 15:32:21 ======== Activesync sync engine is starting up ========
+05/04/2017 15:32:21 Setting DISK FULL status to False
+05/04/2017 15:58:27 ======== Activesync sync engine is starting up ========
+05/04/2017 15:58:27 Setting DISK FULL status to False
+05/04/2017 16:44:31 ======== Activesync sync engine is starting up ========
+05/04/2017 16:44:31 Setting DISK FULL status to False
+05/04/2017 18:21:51 ======== Activesync sync engine is starting up ========
+05/04/2017 18:21:51 Setting DISK FULL status to False
+05/04/2017 19:31:03 ======== Activesync sync engine is starting up ========
+05/04/2017 19:31:03 Setting DISK FULL status to False
+05/04/2017 19:33:11 ======== Activesync sync engine is starting up ========
+05/04/2017 19:33:11 Setting DISK FULL status to False
+06/04/2017 00:53:10 ======== Activesync sync engine is starting up ========
+06/04/2017 00:53:10 Setting DISK FULL status to False
+06/04/2017 00:53:17 ======== Activesync sync engine is starting up ========
+06/04/2017 00:53:17 Setting DISK FULL status to False
+06/04/2017 01:13:28 ======== Activesync sync engine is starting up ========
+06/04/2017 01:13:28 Setting DISK FULL status to False
+06/04/2017 01:13:33 ======== Activesync sync engine is starting up ========
+06/04/2017 01:13:33 Setting DISK FULL status to False
+06/04/2017 12:55:36 ======== Activesync sync engine is starting up ========
+06/04/2017 12:55:36 Setting DISK FULL status to False
+06/04/2017 13:39:09 ======== Activesync sync engine is starting up ========
+06/04/2017 13:39:09 Setting DISK FULL status to False
+06/04/2017 13:41:45 ======== Activesync sync engine is starting up ========
+06/04/2017 13:41:45 Setting DISK FULL status to False
+06/04/2017 14:46:26 ======== Activesync sync engine is starting up ========
+06/04/2017 14:46:26 Setting DISK FULL status to False
+06/04/2017 14:47:23 ======== Activesync sync engine is starting up ========
+06/04/2017 14:47:23 Setting DISK FULL status to False
+07/04/2017 00:12:06 ======== Activesync sync engine is starting up ========
+07/04/2017 00:12:06 Setting DISK FULL status to False
+07/04/2017 00:29:37 ======== Activesync sync engine is starting up ========
+07/04/2017 00:29:37 Setting DISK FULL status to False
+07/04/2017 00:54:35 ======== Activesync sync engine is starting up ========
+07/04/2017 00:54:35 Setting DISK FULL status to False
+07/04/2017 00:56:19 ======== Activesync sync engine is starting up ========
+07/04/2017 00:56:19 Setting DISK FULL status to False
+07/04/2017 14:09:11 ======== Activesync sync engine is starting up ========
+07/04/2017 14:09:11 Setting DISK FULL status to False
+07/04/2017 19:28:13 ======== Activesync sync engine is starting up ========
+07/04/2017 19:28:13 Setting DISK FULL status to False
+07/04/2017 21:34:27 ======== Activesync sync engine is starting up ========
+07/04/2017 21:34:27 Setting DISK FULL status to False
+07/04/2017 21:36:07 ======== Activesync sync engine is starting up ========
+07/04/2017 21:36:07 Setting DISK FULL status to False
+07/04/2017 21:38:58 ======== Activesync sync engine is starting up ========
+07/04/2017 21:38:58 Setting DISK FULL status to False
+09/04/2013 14:50:29 ======== Activesync sync engine is starting up ========
+09/04/2013 14:50:30 Setting DISK FULL status to False
+09/04/2017 19:20:41 ======== Activesync sync engine is starting up ========
+09/04/2017 19:20:41 Setting DISK FULL status to False
+09/04/2012 00:59:27 ======== Activesync sync engine is starting up ========
+09/04/2012 00:59:27 Setting DISK FULL status to False
+09/04/2017 01:30:43 ======== Activesync sync engine is starting up ========
+09/04/2017 01:30:43 Setting DISK FULL status to False
+09/04/2017 01:38:37 ======== Activesync sync engine is starting up ========
+09/04/2017 01:38:37 Setting DISK FULL status to False
+09/04/2017 15:27:58 ======== Activesync sync engine is starting up ========
+09/04/2017 15:27:58 Setting DISK FULL status to False
+09/04/2017 19:13:58 ======== Activesync sync engine is starting up ========
+09/04/2017 19:13:58 Setting DISK FULL status to False
+09/04/2017 20:12:07 ======== Activesync sync engine is starting up ========
+09/04/2017 20:12:07 Setting DISK FULL status to False
+09/04/2017 20:47:57 ======== Activesync sync engine is starting up ========
+09/04/2017 20:47:57 Setting DISK FULL status to False
+09/04/2017 21:31:21 ======== Activesync sync engine is starting up ========
+09/04/2017 21:31:21 Setting DISK FULL status to False
+10/04/2017 13:56:21 ======== Activesync sync engine is starting up ========
+10/04/2017 13:56:21 Setting DISK FULL status to False
+13/07/2011 00:00:14 ======== Activesync sync engine is starting up ========
+13/07/2011 00:00:14 Setting DISK FULL status to False
+13/07/2011 00:33:23 ======== Activesync sync engine is starting up ========
+13/07/2011 00:33:23 Setting DISK FULL status to False
+13/07/2011 00:38:59 ======== Activesync sync engine is starting up ========
+13/07/2011 00:38:59 Setting DISK FULL status to False
+13/07/2011 00:41:20 ======== Activesync sync engine is starting up ========
+13/07/2011 00:41:20 Setting DISK FULL status to False
+13/07/2011 00:43:11 ======== Activesync sync engine is starting up ========
+13/07/2011 00:43:11 Setting DISK FULL status to False
+13/07/2011 00:44:50 ======== Activesync sync engine is starting up ========
+13/07/2011 00:44:50 Setting DISK FULL status to False
+13/07/2011 00:48:19 ======== Activesync sync engine is starting up ========
+13/07/2011 00:48:19 Setting DISK FULL status to False
+13/07/2011 00:50:11 ======== Activesync sync engine is starting up ========
+13/07/2011 00:50:11 Setting DISK FULL status to False
+13/07/2011 00:52:29 ======== Activesync sync engine is starting up ========
+13/07/2011 00:52:29 Setting DISK FULL status to False
+05/07/2011 17:00:40 ======== Activesync sync engine is starting up ========
+05/07/2011 17:00:40 Setting DISK FULL status to False
+05/07/2011 09:05:33 ======== Activesync sync engine is starting up ========
+05/07/2011 09:05:33 Setting DISK FULL status to False
+05/07/2011 09:07:40 ======== Activesync sync engine is starting up ========
+05/07/2011 09:07:40 Setting DISK FULL status to False
+13/07/2011 09:00:18 ======== Activesync sync engine is starting up ========
+13/07/2011 09:00:18 Setting DISK FULL status to False
+13/07/2011 09:00:13 ======== Activesync sync engine is starting up ========
+13/07/2011 09:00:13 Setting DISK FULL status to False
+13/07/2011 09:00:16 ======== Activesync sync engine is starting up ========
+13/07/2011 09:00:16 Setting DISK FULL status to False
+13/07/2011 09:24:56 ======== Activesync sync engine is starting up ========
+13/07/2011 09:24:56 Setting DISK FULL status to False
+13/07/2011 09:40:00 ======== Activesync sync engine is starting up ========
+13/07/2011 09:40:00 Setting DISK FULL status to False
+13/07/2011 09:57:34 ======== Activesync sync engine is starting up ========
+13/07/2011 09:57:34 Setting DISK FULL status to False
+13/07/2011 10:01:05 ======== Activesync sync engine is starting up ========
+13/07/2011 10:01:05 Setting DISK FULL status to False
+12/04/2017 22:11:03 ======== Activesync sync engine is starting up ========
+12/04/2017 22:11:03 Setting DISK FULL status to False
+13/04/2017 02:15:10 ======== Activesync sync engine is starting up ========
+13/04/2017 02:15:10 Setting DISK FULL status to False
+13/04/2017 02:17:18 ======== Activesync sync engine is starting up ========
+13/04/2017 02:17:18 Setting DISK FULL status to False
+13/04/2017 02:24:40 ======== Activesync sync engine is starting up ========
+13/04/2017 02:24:40 Setting DISK FULL status to False
+13/04/2017 11:31:55 ======== Activesync sync engine is starting up ========
+13/04/2017 11:31:55 Setting DISK FULL status to False
+13/04/2017 11:34:27 ======== Activesync sync engine is starting up ========
+13/04/2017 11:34:27 Setting DISK FULL status to False
+13/04/2017 11:39:07 ======== Activesync sync engine is starting up ========
+13/04/2017 11:39:07 Setting DISK FULL status to False
+13/04/2017 12:30:02 ======== Activesync sync engine is starting up ========
+13/04/2017 12:30:02 Setting DISK FULL status to False
+13/04/2017 13:27:20 ======== Activesync sync engine is starting up ========
+13/04/2017 13:27:20 Setting DISK FULL status to False
+13/04/2017 14:32:58 ======== Activesync sync engine is starting up ========
+13/04/2017 14:32:58 Setting DISK FULL status to False
+13/04/2017 14:45:08 ======== Activesync sync engine is starting up ========
+13/04/2017 14:45:08 Setting DISK FULL status to False
+13/04/2017 22:38:33 ======== Activesync sync engine is starting up ========
+13/04/2017 22:38:33 Setting DISK FULL status to False
+14/04/2017 00:13:23 ======== Activesync sync engine is starting up ========
+14/04/2017 00:13:23 Setting DISK FULL status to False
+14/04/2017 00:13:26 ======== Activesync sync engine is starting up ========
+14/04/2017 00:13:26 Setting DISK FULL status to False
+14/04/2017 01:30:40 ======== Activesync sync engine is starting up ========
+14/04/2017 01:30:40 Setting DISK FULL status to False
+14/04/2017 18:19:27 ======== Activesync sync engine is starting up ========
+14/04/2017 18:19:27 Setting DISK FULL status to False
+14/04/2017 18:21:12 ======== Activesync sync engine is starting up ========
+14/04/2017 18:21:12 Setting DISK FULL status to False
+14/04/2017 18:27:42 ======== Activesync sync engine is starting up ========
+14/04/2017 18:27:42 Setting DISK FULL status to False
+14/04/2017 18:54:40 ======== Activesync sync engine is starting up ========
+14/04/2017 18:54:40 Setting DISK FULL status to False
+14/04/2017 19:15:03 ======== Activesync sync engine is starting up ========
+14/04/2017 19:15:03 Setting DISK FULL status to False
+14/04/2017 19:50:17 ======== Activesync sync engine is starting up ========
+14/04/2017 19:50:17 Setting DISK FULL status to False
+14/04/2017 19:51:46 ======== Activesync sync engine is starting up ========
+14/04/2017 19:51:46 Setting DISK FULL status to False
+14/04/2017 19:51:58 ======== Activesync sync engine is starting up ========
+14/04/2017 19:51:58 Setting DISK FULL status to False
+14/04/2017 21:05:58 ======== Activesync sync engine is starting up ========
+14/04/2017 21:05:58 Setting DISK FULL status to False
+26/04/2017 20:17:53 ======== Activesync sync engine is starting up ========
+26/04/2017 20:17:53 Setting DISK FULL status to False
+29/04/2017 09:36:59 ======== Activesync sync engine is starting up ========
+29/04/2017 09:36:59 Setting DISK FULL status to False
+04/05/2017 15:54:37 ======== Activesync sync engine is starting up ========
+04/05/2017 15:54:37 Setting DISK FULL status to False
+04/05/2017 17:31:54 ======== Activesync sync engine is starting up ========
+04/05/2017 17:31:54 Setting DISK FULL status to False
+04/05/2017 17:34:26 ======== Activesync sync engine is starting up ========
+04/05/2017 17:34:27 Setting DISK FULL status to False
+04/05/2017 18:00:16 ======== Activesync sync engine is starting up ========
+04/05/2017 18:00:16 Setting DISK FULL status to False
+04/05/2017 20:53:37 ======== Activesync sync engine is starting up ========
+04/05/2017 20:53:37 Setting DISK FULL status to False
+05/05/2017 22:04:45 ======== Activesync sync engine is starting up ========
+05/05/2017 22:04:45 Setting DISK FULL status to False
+05/05/2017 22:06:27 ======== Activesync sync engine is starting up ========
+05/05/2017 22:06:27 Setting DISK FULL status to False
+08/05/2017 21:19:27 ======== Activesync sync engine is starting up ========
+08/05/2017 21:19:27 Setting DISK FULL status to False
+09/05/2017 14:19:53 ======== Activesync sync engine is starting up ========
+09/05/2017 14:19:53 Setting DISK FULL status to False
+09/05/2017 20:39:13 ======== Activesync sync engine is starting up ========
+09/05/2017 20:39:13 Setting DISK FULL status to False
+09/05/2017 20:46:44 ======== Activesync sync engine is starting up ========
+09/05/2017 20:46:44 Setting DISK FULL status to False
+10/05/2017 16:33:49 ======== Activesync sync engine is starting up ========
+10/05/2017 16:33:49 Setting DISK FULL status to False
+11/05/2017 10:51:08 ======== Activesync sync engine is starting up ========
+11/05/2017 10:51:08 Setting DISK FULL status to False
+12/05/2017 15:52:26 ======== Activesync sync engine is starting up ========
+12/05/2017 15:52:27 Setting DISK FULL status to False
+12/05/2017 16:10:44 ======== Activesync sync engine is starting up ========
+12/05/2017 16:10:44 Setting DISK FULL status to False
+12/05/2017 16:12:23 ======== Activesync sync engine is starting up ========
+12/05/2017 16:12:23 Setting DISK FULL status to False
+12/05/2017 16:19:35 ======== Activesync sync engine is starting up ========
+12/05/2017 16:19:35 Setting DISK FULL status to False
+12/05/2017 16:36:30 ======== Activesync sync engine is starting up ========
+12/05/2017 16:36:30 Setting DISK FULL status to False
+12/05/2017 16:39:03 ======== Activesync sync engine is starting up ========
+12/05/2017 16:39:03 Setting DISK FULL status to False
+12/05/2017 16:41:11 ======== Activesync sync engine is starting up ========
+12/05/2017 16:41:11 Setting DISK FULL status to False
+13/05/2017 17:06:57 ======== Activesync sync engine is starting up ========
+13/05/2017 17:06:57 Setting DISK FULL status to False
+13/05/2017 17:20:08 ======== Activesync sync engine is starting up ========
+13/05/2017 17:20:08 Setting DISK FULL status to False
+15/05/2017 20:17:39 ======== Activesync sync engine is starting up ========
+15/05/2017 20:17:39 Setting DISK FULL status to False
+16/05/2017 12:33:26 ======== Activesync sync engine is starting up ========
+16/05/2017 12:33:26 Setting DISK FULL status to False
+17/05/2017 15:13:16 ======== Activesync sync engine is starting up ========
+17/05/2017 15:13:16 Setting DISK FULL status to False
+17/05/2017 16:39:41 ======== Activesync sync engine is starting up ========
+17/05/2017 16:39:41 Setting DISK FULL status to False
+17/05/2017 16:41:30 ======== Activesync sync engine is starting up ========
+17/05/2017 16:41:30 Setting DISK FULL status to False
+18/05/2017 11:10:47 ======== Activesync sync engine is starting up ========
+18/05/2017 11:10:47 Setting DISK FULL status to False
+18/05/2017 11:12:48 ======== Activesync sync engine is starting up ========
+18/05/2017 11:12:48 Setting DISK FULL status to False
+18/05/2017 16:52:31 ======== Activesync sync engine is starting up ========
+18/05/2017 16:52:31 Setting DISK FULL status to False
+18/05/2017 17:00:11 ======== Activesync sync engine is starting up ========
+18/05/2017 17:00:11 Setting DISK FULL status to False
+18/05/2017 21:33:22 ======== Activesync sync engine is starting up ========
+18/05/2017 21:33:22 Setting DISK FULL status to False
+18/05/2017 22:20:10 ======== Activesync sync engine is starting up ========
+18/05/2017 22:20:11 Setting DISK FULL status to False
+19/05/2017 12:07:58 ======== Activesync sync engine is starting up ========
+19/05/2017 12:07:58 Setting DISK FULL status to False
+19/05/2017 20:18:46 ======== Activesync sync engine is starting up ========
+19/05/2017 20:18:46 Setting DISK FULL status to False
+19/05/2017 20:55:14 ======== Activesync sync engine is starting up ========
+19/05/2017 20:55:14 Setting DISK FULL status to False
+20/05/2017 10:33:57 ======== Activesync sync engine is starting up ========
+20/05/2017 10:33:57 Setting DISK FULL status to False
+20/05/2017 15:15:53 ======== Activesync sync engine is starting up ========
+20/05/2017 15:15:53 Setting DISK FULL status to False
+26/05/2017 10:25:46 ======== Activesync sync engine is starting up ========
+26/05/2017 10:25:47 Setting DISK FULL status to False
+26/05/2017 16:54:56 ======== Activesync sync engine is starting up ========
+26/05/2017 16:54:56 Setting DISK FULL status to False
+26/05/2017 16:59:44 ======== Activesync sync engine is starting up ========
+26/05/2017 16:59:44 Setting DISK FULL status to False
+26/05/2017 17:00:59 ======== Activesync sync engine is starting up ========
+26/05/2017 17:00:59 Setting DISK FULL status to False
+26/05/2017 17:01:59 ======== Activesync sync engine is starting up ========
+26/05/2017 17:01:59 Setting DISK FULL status to False
+26/05/2017 17:44:30 ======== Activesync sync engine is starting up ========
+26/05/2017 17:44:30 Setting DISK FULL status to False
+27/05/2017 19:09:30 ======== Activesync sync engine is starting up ========
+27/05/2017 19:09:30 Setting DISK FULL status to False
+28/05/2012 20:01:19 ======== Activesync sync engine is starting up ========
+28/05/2012 20:01:19 Setting DISK FULL status to False
+28/05/2012 20:23:56 ======== Activesync sync engine is starting up ========
+28/05/2012 20:23:56 Setting DISK FULL status to False
+29/05/2012 14:08:31 ======== Activesync sync engine is starting up ========
+29/05/2012 14:08:31 Setting DISK FULL status to False
+29/05/2012 19:54:39 ======== Activesync sync engine is starting up ========
+29/05/2012 19:54:39 Setting DISK FULL status to False
+30/05/2012 18:30:30 ======== Activesync sync engine is starting up ========
+30/05/2012 18:30:30 Setting DISK FULL status to False
+31/05/2012 22:51:08 ======== Activesync sync engine is starting up ========
+31/05/2012 22:51:08 Setting DISK FULL status to False
